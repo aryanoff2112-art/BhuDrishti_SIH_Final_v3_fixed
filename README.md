@@ -578,39 +578,5 @@ The core design principle is:
 
 ---
 
-## 👥 Team
 
-**Project:** BhuDrishti  
-**Problem Statement:** SIH26018 — Intelligent Land Record Digitization and Validation System  
-**Competition:** Smart India Hackathon 2026
 
-Add your team members, college, mentor, and repository/demo links here before publishing.
-
----
-
-## 📜 License
-
-Add the license appropriate for your team/institution before making the repository public.
-
----
-
-## 📌 Repository Checklist
-
-Before pushing to GitHub:
-
-- [ ] Remove `.env`
-- [ ] Confirm API keys are not present anywhere
-- [ ] Confirm private RSA keys are ignored
-- [ ] Run `npm install`
-- [ ] Run `npm run dev`
-- [ ] Test a valid land record
-- [ ] Test a non-land document
-- [ ] Test a poor-quality scan
-- [ ] Test human correction
-- [ ] Test record sealing
-- [ ] Test seal verification
-- [ ] Review `SECURITY.md`
-- [ ] Replace `<YOUR_GITHUB_REPOSITORY_URL>`
-- [ ] Add team information
-- [ ] Add screenshots/demo video
-- [ ] Add final SIH presentation/demo links
