@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100" width="100%" height="100%" style="background:#ffffff; font-family:'Noto Sans Devanagari', sans-serif;">
+  <rect width="800" height="1100" fill="#ffffff" />
+  <rect x="25" y="25" width="750" height="1050" fill="#ffffff" stroke="#000000" stroke-width="2" />
+
+  <g transform="translate(540, 45)">
+    <rect width="220" height="26" fill="#000000" rx="3" />
+    <text x="110" y="17" text-anchor="middle" font-size="10" font-weight="bold" fill="#ffffff" letter-spacing="1">CV: SAUVOLA LOCAL (96% Q)</text>
+  </g>
+
+  <g transform="translate(400, 95)" text-anchor="middle">
+    <text y="20" font-size="18" font-weight="bold" fill="#000000">महाराष्ट्र शासन — महसूल व वन विभाग</text>
+    <text y="44" font-size="15" font-weight="bold" fill="#000000">गाव नमुना सात (अधिकार अभिलेख पत्रक) व बारा (पिकांची नोंदवही)</text>
+    <text y="66" font-size="12" font-weight="bold" fill="#000000">गाव: मौजे बारामती • तालुका: बारामती • जिल्हा: पुणे (LGD: 556120)</text>
+  </g>
+
+  <g transform="translate(50, 170)">
+    <rect width="700" height="40" fill="#ffffff" stroke="#000000" stroke-width="2" />
+    <line x1="150" y1="0" x2="150" y2="40" stroke="#000000" stroke-width="2" />
+    <line x1="320" y1="0" x2="320" y2="40" stroke="#000000" stroke-width="2" />
+    <line x1="520" y1="0" x2="520" y2="40" stroke="#000000" stroke-width="2" />
+
+    <text x="75" y="25" text-anchor="middle" font-size="13" font-weight="bold" fill="#000000">गट / सर्व्हे क्र.</text>
+    <text x="235" y="25" text-anchor="middle" font-size="13" font-weight="bold" fill="#000000">क्षेत्र (हे. आर)</text>
+    <text x="420" y="25" text-anchor="middle" font-size="13" font-weight="bold" fill="#000000">खातेदार व इतर हक्क</text>
+    <text x="610" y="25" text-anchor="middle" font-size="13" font-weight="bold" fill="#000000">फेरफार व बोजा</text>
+  </g>
+
+  <g transform="translate(50, 210)">
+    <rect width="700" height="340" fill="#ffffff" stroke="#000000" stroke-width="2" />
+    <line x1="150" y1="0" x2="150" y2="340" stroke="#000000" stroke-width="2" />
+    <line x1="320" y1="0" x2="320" y2="340" stroke="#000000" stroke-width="2" />
+    <line x1="520" y1="0" x2="520" y2="340" stroke="#000000" stroke-width="2" />
+
+    <text x="75" y="45" text-anchor="middle" font-size="20" font-weight="bold" fill="#000000">१०८</text>
+    <text x="75" y="70" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">हिस्सा: अ</text>
+
+    <text x="235" y="45" text-anchor="middle" font-size="18" font-weight="bold" fill="#000000">२.१५ हे. आर</text>
+    <text x="235" y="70" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">जिरायत/बागायत</text>
+
+    <g transform="translate(335, 30)">
+      <text y="15" font-size="15" font-weight="bold" fill="#000000">आनंद दत्तात्रय पाटील</text>
+      <text y="35" font-size="12" font-weight="bold" fill="#000000">खाते क्र. ४५ (वारस)</text>
+      <text y="55" font-size="12" font-weight="bold" fill="#000000">हक्क: १००% पूर्ण</text>
+    </g>
+
+    <g transform="translate(535, 30)">
+      <text y="15" font-size="13" font-weight="bold" fill="#000000">फेरफार क्र. ४४१२</text>
+      <text y="32" font-size="11" font-weight="bold" fill="#000000">दि. २२/११/२०२२</text>
+      <line x1="0" y1="45" x2="150" y2="45" stroke="#000000" stroke-width="1.5" />
+      <text y="65" font-size="12" font-weight="bold" fill="#000000">बोजा: बँक ऑफ महा.</text>
+      <text y="82" font-size="11" font-weight="bold" fill="#000000">रक्कम: ₹ २,५०,०००</text>
+    </g>
+  </g>
+</svg>

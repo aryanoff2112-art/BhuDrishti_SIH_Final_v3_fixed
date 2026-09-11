@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100" width="100%" height="100%" style="background:#ffffff; font-family:'Plus Jakarta Sans', sans-serif;">
+  <rect width="800" height="1100" fill="#ffffff" />
+  <rect x="25" y="25" width="750" height="1050" fill="#ffffff" stroke="#000000" stroke-width="2" />
+
+  <g transform="translate(540, 45)">
+    <rect width="220" height="26" fill="#000000" rx="3" />
+    <text x="110" y="17" text-anchor="middle" font-size="10" font-weight="bold" fill="#ffffff">CV: OTSU (92% Q) • DESKEW 1.1°</text>
+  </g>
+
+  <g transform="translate(400, 95)" text-anchor="middle">
+    <text y="20" font-size="18" font-weight="bold" fill="#000000">Government of Punjab — Department of Revenue</text>
+    <text y="44" font-size="15" font-weight="bold" fill="#000000">ਜਮ੍ਹਾਂਬੰਦੀ ਰਜਿਸਟਰ (ਅਧਿਕਾਰ ਰਿਕਾਰਡ - RoR)</text>
+    <text y="66" font-size="12" font-weight="bold" fill="#000000">ਪਿੰਡ: ਅਲਹੋਰਾ (Alhoran) • ਤਹਿਸੀਲ: ਨਾਭਾ • ਜ਼ਿਲ੍ਹਾ: ਪਟਿਆਲਾ (LGD: 389201)</text>
+  </g>
+
+  <g transform="translate(50, 170)">
+    <rect width="700" height="40" fill="#ffffff" stroke="#000000" stroke-width="2" />
+    <line x1="130" y1="0" x2="130" y2="40" stroke="#000000" stroke-width="2" />
+    <line x1="250" y1="0" x2="250" y2="40" stroke="#000000" stroke-width="2" />
+    <line x1="490" y1="0" x2="490" y2="40" stroke="#000000" stroke-width="2" />
+    <line x1="600" y1="0" x2="600" y2="40" stroke="#000000" stroke-width="2" />
+
+    <text x="65" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">ਖੇਵਟ/ਖਤੌਨੀ</text>
+    <text x="190" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">ਮੁਰੱਬਾ / ਕਿੱਲਾ</text>
+    <text x="370" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">ਮਾਲਕ ਦਾ ਨਾਮ ਤੇ ਹਿੱਸਾ</text>
+    <text x="545" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">ਰਕਬਾ (ਹੈਕ.)</text>
+    <text x="650" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">ਇੰਤਕਾਲ</text>
+  </g>
+
+  <g transform="translate(50, 210)">
+    <rect width="700" height="340" fill="#ffffff" stroke="#000000" stroke-width="2" />
+    <line x1="130" y1="0" x2="130" y2="340" stroke="#000000" stroke-width="2" />
+    <line x1="250" y1="0" x2="250" y2="340" stroke="#000000" stroke-width="2" />
+    <line x1="490" y1="0" x2="490" y2="340" stroke="#000000" stroke-width="2" />
+    <line x1="600" y1="0" x2="600" y2="340" stroke="#000000" stroke-width="2" />
+
+    <text x="65" y="45" text-anchor="middle" font-size="18" font-weight="bold" fill="#000000">੫੬/੧੧੨</text>
+    <text x="190" y="45" text-anchor="middle" font-size="18" font-weight="bold" fill="#000000">੩੪//੧੨</text>
+
+    <g transform="translate(265, 30)">
+      <text y="15" font-size="14" font-weight="bold" fill="#000000">੧. ਗੁਰਦੀਪ ਸਿੰਘ (ਹਿੱਸਾ: ੧/੨ - ੫੦%)</text>
+      <text y="50" font-size="14" font-weight="bold" fill="#000000">੨. ਬਲਵਿੰਦਰ ਕੌਰ (ਹਿੱਸਾ: ੧/੨ - ੫੦%)</text>
+      <line x1="0" y1="70" x2="210" y2="70" stroke="#000000" stroke-width="1.5" />
+      <text y="90" font-size="12" font-weight="bold" fill="#000000">ਕੁੱਲ: ੧੦੦% (ਸੰਤੁਲਿਤ)</text>
+    </g>
+
+    <text x="545" y="45" text-anchor="middle" font-size="18" font-weight="bold" fill="#000000">੧.੮੨ ਹੈਕ.</text>
+
+    <g transform="translate(610, 30)" font-size="11" font-weight="bold" fill="#000000">
+      <text y="15">ਇੰਤਕਾਲ ੮੯੨</text>
+      <text y="35">ਬੈਨਾਮਾ ਰਜਿਸਟਰੀ</text>
+    </g>
+  </g>
+</svg>

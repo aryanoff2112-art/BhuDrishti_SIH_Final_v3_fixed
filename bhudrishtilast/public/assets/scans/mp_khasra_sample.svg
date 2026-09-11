@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100" width="100%" height="100%" style="background:#f1e8db; font-family:'Noto Sans Devanagari', sans-serif;">
+  <!-- Degraded vintage scan background with slight angle -->
+  <rect width="800" height="1100" fill="#ede1cd" />
+  <rect x="25" y="25" width="750" height="1050" fill="#faf4e8" stroke="#8d6e63" stroke-width="2" />
+
+  <!-- Critical Red Injunction Stamp Over Document -->
+  <g transform="translate(480, 520) rotate(-15)">
+    <rect width="260" height="85" fill="#ffebee" stroke="#c62828" stroke-width="3" rx="4" />
+    <rect x="4" y="4" width="252" height="77" fill="none" stroke="#c62828" stroke-width="1.5" stroke-dasharray="4,2" />
+    <text x="130" y="32" text-anchor="middle" font-size="14" font-weight="bold" fill="#c62828">न्यायालयीन स्थगनादेश</text>
+    <text x="130" y="52" text-anchor="middle" font-size="11" font-weight="bold" fill="#b71c1c">प्रकरण क्रमांक ४४/२०२४</text>
+    <text x="130" y="70" text-anchor="middle" font-size="9" fill="#c62828">व्यवहार न्यायालय रायसेन (म.प्र.)</text>
+  </g>
+
+  <!-- Header -->
+  <g transform="translate(400, 75)" text-anchor="middle">
+    <text y="20" font-size="18" font-weight="bold" fill="#2d1e12">मध्य प्रदेश शासन — राजस्व मंडल ग्वालियर</text>
+    <text y="44" font-size="15" font-weight="bold" fill="#4e342e">खसरा प्रपत्र बी-१ (अधिकार अभिलेख)</text>
+    <text y="66" font-size="12" fill="#6d4c41">ग्राम: गौहरगंज • तहसील: गौहरगंज • जिला: रायसेन (LGD: 482103)</text>
+  </g>
+
+  <!-- Table Header -->
+  <g transform="translate(50, 170)">
+    <rect width="700" height="40" fill="#dfd0ba" stroke="#5d4037" stroke-width="1.5" />
+    <line x1="120" y1="0" x2="120" y2="40" stroke="#5d4037" />
+    <line x1="240" y1="0" x2="240" y2="40" stroke="#5d4037" />
+    <line x1="480" y1="0" x2="480" y2="40" stroke="#5d4037" />
+    <line x1="590" y1="0" x2="590" y2="40" stroke="#5d4037" />
+
+    <text x="60" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#2d1e12">खाता सं.</text>
+    <text x="180" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#2d1e12">खसरा नं.</text>
+    <text x="360" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#2d1e12">भूमिस्वामी का नाम व अंश</text>
+    <text x="535" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#2d1e12">रकबा (हे.)</text>
+    <text x="645" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#2d1e12">कैफियत / विवाद</text>
+  </g>
+
+  <!-- Row 1 -->
+  <g transform="translate(50, 210)">
+    <rect width="700" height="340" fill="#fdfbf7" stroke="#5d4037" stroke-width="1.5" />
+    <line x1="120" y1="0" x2="120" y2="340" stroke="#5d4037" />
+    <line x1="240" y1="0" x2="240" y2="340" stroke="#5d4037" />
+    <line x1="480" y1="0" x2="480" y2="340" stroke="#5d4037" />
+    <line x1="590" y1="0" x2="590" y2="340" stroke="#5d4037" />
+
+    <!-- Khata -->
+    <text x="60" y="45" text-anchor="middle" font-size="16" font-weight="bold" fill="#2d1e12">७८</text>
+
+    <!-- Khasra -->
+    <text x="180" y="45" text-anchor="middle" font-size="16" font-weight="bold" fill="#2d1e12">४३२/१</text>
+    <text x="180" y="70" text-anchor="middle" font-size="11" fill="#6d4c41">उपखंड: १</text>
+
+    <!-- Shareholders (Invalid 115%) -->
+    <g transform="translate(255, 30)">
+      <text y="15" font-size="13" font-weight="bold" fill="#2d1e12">१. कुंवर बलवंत सिंह पिता जगन्नाथ सिंह</text>
+      <text x="15" y="32" font-size="11" fill="#5d4037">अंश: ३/४ (७५%)</text>
+
+      <text y="70" font-size="13" font-weight="bold" fill="#b71c1c">२. धीरेन्द्र प्रताप सिंह पिता जगन्नाथ सिंह</text>
+      <text x="15" y="87" font-size="11" font-weight="bold" fill="#b71c1c">अंश: २/५ (४०%) [विवादित अंशदावा]</text>
+
+      <line x1="0" y1="105" x2="210" y2="105" stroke="#ef9a9a" stroke-width="1.5" />
+      <text y="125" font-size="11" font-weight="bold" fill="#b71c1c">⚠️ कुल अंश योग = ११५% (त्रुटिपूर्ण!)</text>
+    </g>
+
+    <!-- Area -->
+    <text x="535" y="45" text-anchor="middle" font-size="15" font-weight="bold" fill="#b71c1c">३.८५</text>
+    <text x="535" y="70" text-anchor="middle" font-size="11" fill="#6d4c41">हेक्टेयर</text>
+    <text x="535" y="90" text-anchor="middle" font-size="10" fill="#b71c1c">(LRMS: ३.२० हे.)</text>
+
+    <!-- Remarks -->
+    <g transform="translate(600, 30)" font-size="10" fill="#b71c1c">
+      <text y="15" font-weight="bold">ग्राम सभा चारागाह</text>
+      <text y="30">अतिक्रमण शिकायत</text>
+      <text y="45">जांच हेतु लंबित</text>
+      <line x1="0" y1="55" x2="90" y2="55" stroke="#ffcdd2" />
+      <text y="75" font-weight="bold">एसडीएम न्यायालय</text>
+      <text y="90">में स्थगन आदेश</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100" width="100%" height="100%" style="background:#ffffff; font-family:'Noto Sans Devanagari', 'Plus Jakarta Sans', monospace;">
+  <!-- Pure Black & White Adaptive Binarization View -->
+  <rect width="800" height="1100" fill="#ffffff" />
+  <rect x="25" y="25" width="750" height="1050" fill="#ffffff" stroke="#000000" stroke-width="2" />
+
+  <!-- Preprocessing Badge Top Right -->
+  <g transform="translate(560, 45)">
+    <rect width="200" height="26" fill="#000000" rx="3" />
+    <text x="100" y="17" text-anchor="middle" font-size="10" font-weight="bold" fill="#ffffff" letter-spacing="1">CV: OTSU BINARIZED (91% Q)</text>
+  </g>
+
+  <!-- Deskew Angle Notice -->
+  <text x="40" y="55" font-size="10" font-weight="bold" fill="#000000">DESKEWED: +1.42° • CONTRAST: 1.85X • DENOISED (NLM)</text>
+
+  <!-- Header -->
+  <g transform="translate(400, 95)" text-anchor="middle">
+    <text y="20" font-size="16" font-weight="bold" fill="#000000" letter-spacing="1">उत्तर प्रदेश शासन — राजस्व परिषद (भूलेख)</text>
+    <text y="42" font-size="13" font-weight="bold" fill="#000000">खसरा खतौनी (अधिकार अभिलेख) — प्रपत्र सी.एच.-४१</text>
+    <text y="60" font-size="11" font-weight="600" fill="#000000">तहसील: सदर • जनपद: लखनऊ • परगना: महोना • ग्राम: रामपुर कलां (LGD: 142850)</text>
+  </g>
+
+  <!-- Table Header -->
+  <g transform="translate(50, 190)">
+    <rect width="700" height="40" fill="#ffffff" stroke="#000000" stroke-width="2" />
+    <line x1="120" y1="0" x2="120" y2="40" stroke="#000000" stroke-width="2" />
+    <line x1="240" y1="0" x2="240" y2="40" stroke="#000000" stroke-width="2" />
+    <line x1="480" y1="0" x2="480" y2="40" stroke="#000000" stroke-width="2" />
+    <line x1="590" y1="0" x2="590" y2="40" stroke="#000000" stroke-width="2" />
+
+    <text x="60" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">खाता सं.</text>
+    <text x="180" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">खसरा / गाटा</text>
+    <text x="360" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">खातेदार का नाम, पिता का नाम व निवास</text>
+    <text x="535" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">क्षेत्रफल (हे.)</text>
+    <text x="645" y="25" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">आदेश / टिप्पणी</text>
+  </g>
+
+  <!-- Row 1: Main Land Record -->
+  <g transform="translate(50, 230)">
+    <rect width="700" height="320" fill="#ffffff" stroke="#000000" stroke-width="2" />
+    <line x1="120" y1="0" x2="120" y2="320" stroke="#000000" stroke-width="2" />
+    <line x1="240" y1="0" x2="240" y2="320" stroke="#000000" stroke-width="2" />
+    <line x1="480" y1="0" x2="480" y2="320" stroke="#000000" stroke-width="2" />
+    <line x1="590" y1="0" x2="590" y2="320" stroke="#000000" stroke-width="2" />
+
+    <!-- Col 1: Khata -->
+    <text x="60" y="45" text-anchor="middle" font-size="18" font-weight="bold" fill="#000000">१०४</text>
+    <text x="60" y="70" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">(104)</text>
+
+    <!-- Col 2: Khasra -->
+    <text x="180" y="45" text-anchor="middle" font-size="18" font-weight="bold" fill="#000000">२१४/२</text>
+    <text x="180" y="70" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">उप-विभाजन: ब</text>
+    <text x="180" y="100" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">श्रेणी: १-क</text>
+
+    <!-- Col 3: Shareholders -->
+    <g transform="translate(255, 30)">
+      <text y="15" font-size="14" font-weight="bold" fill="#000000">१. रामेश्वर दयाल सुत शिव प्रसाद</text>
+      <text x="15" y="34" font-size="12" font-weight="600" fill="#000000">निवास रामपुर कलां (अंश १/२ - ५०%)</text>
+
+      <text y="75" font-size="14" font-weight="bold" fill="#000000">२. श्रीमती कमला देवी पत्नी स्व. बृजेश दयाल</text>
+      <text x="15" y="94" font-size="12" font-weight="600" fill="#000000">निवास रामपुर कलां (अंश १/४ - २५%)</text>
+
+      <text y="135" font-size="14" font-weight="bold" fill="#000000">३. महेश्वर दयाल सुत शिव प्रसाद</text>
+      <text x="15" y="154" font-size="12" font-weight="600" fill="#000000">निवास रामपुर कलां (अंश १/४ - २५%)</text>
+
+      <line x1="0" y1="175" x2="210" y2="175" stroke="#000000" stroke-width="1.5" />
+      <text y="195" font-size="12" font-weight="bold" fill="#000000">कुल अंश योग: १००% (संतुलित)</text>
+    </g>
+
+    <!-- Col 4: Area -->
+    <text x="535" y="45" text-anchor="middle" font-size="18" font-weight="bold" fill="#000000">१.४२५०</text>
+    <text x="535" y="70" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">(1.425 Ha)</text>
+    <text x="535" y="100" text-anchor="middle" font-size="11" font-weight="bold" fill="#000000">३ बीघा ८ बिस्वा</text>
+
+    <!-- Col 5: Mutation & Orders -->
+    <g transform="translate(600, 30)" font-size="11" font-weight="bold" fill="#000000">
+      <text y="15">नामांतरण २०२३/८८१९</text>
+      <text y="32">दि. १४/०९/२०२३</text>
+      <text y="49">वारिस: श्रीमती कमला देवी</text>
+      <text y="66">ह. नायब तहसीलदार</text>
+      <line x1="0" y1="80" x2="90" y2="80" stroke="#000000" stroke-width="1.5" />
+      <text y="100">बंधक: बड़ौदा यूपी बैंक</text>
+      <text y="117">केसीसी रु. १,८०,०००</text>
+    </g>
+  </g>
+
+  <!-- High-contrast OCR Bounding Boxes Ready -->
+  <rect x="160" y="270" width="80" height="35" fill="none" stroke="#000000" stroke-width="1" stroke-dasharray="2,2" />
+  <rect x="520" y="660" width="220" height="80" fill="none" stroke="#000000" stroke-width="2" />
+  <text x="630" y="700" text-anchor="middle" font-size="12" font-weight="bold" fill="#000000">तस्दीक: राजस्व लेखपाल</text>
+  <text x="630" y="720" text-anchor="middle" font-size="11" font-weight="bold" fill="#000000">हल्का #१४, रामपुर कलां</text>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100" width="100%" height="100%" style="background:#f4ede0; font-family:'Noto Sans Devanagari', sans-serif;">
+  <rect width="800" height="1100" fill="#f5ede0" />
+  <rect x="25" y="25" width="750" height="1050" fill="#fffdf9" stroke="#5d4037" stroke-width="2" />
+
+  <!-- Header -->
+  <g transform="translate(400, 75)" text-anchor="middle">
+    <text y="20" font-size="18" font-weight="bold" fill="#1b120c">महाराष्ट्र शासन — महसूल व वन विभाग</text>
+    <text y="44" font-size="15" font-weight="bold" fill="#3e2723">गाव नमुना सात (अधिकार अभिलेख पत्रक) व बारा (पिकांची नोंदवही)</text>
+    <text y="66" font-size="12" fill="#5d4037">गाव: मौजे बारामती • तालुका: बारामती • जिल्हा: पुणे • भूमापन क्रमांक (LGD: 556120)</text>
+  </g>
+
+  <!-- Table 7/12 Details -->
+  <g transform="translate(50, 170)">
+    <rect width="700" height="40" fill="#e8dfce" stroke="#5d4037" stroke-width="1.5" />
+    <line x1="150" y1="0" x2="150" y2="40" stroke="#5d4037" />
+    <line x1="320" y1="0" x2="320" y2="40" stroke="#5d4037" />
+    <line x1="520" y1="0" x2="520" y2="40" stroke="#5d4037" />
+
+    <text x="75" y="25" text-anchor="middle" font-size="13" font-weight="bold" fill="#1b120c">गट / सर्व्हे क्र.</text>
+    <text x="235" y="25" text-anchor="middle" font-size="13" font-weight="bold" fill="#1b120c">क्षेत्र (हे. आर)</text>
+    <text x="420" y="25" text-anchor="middle" font-size="13" font-weight="bold" fill="#1b120c">खातेदार व इतर हक्क</text>
+    <text x="610" y="25" text-anchor="middle" font-size="13" font-weight="bold" fill="#1b120c">फेरफार व बोजा</text>
+  </g>
+
+  <g transform="translate(50, 210)">
+    <rect width="700" height="340" fill="#fdfbf7" stroke="#5d4037" stroke-width="1.5" />
+    <line x1="150" y1="0" x2="150" y2="340" stroke="#5d4037" />
+    <line x1="320" y1="0" x2="320" y2="340" stroke="#5d4037" />
+    <line x1="520" y1="0" x2="520" y2="340" stroke="#5d4037" />
+
+    <!-- Gat No -->
+    <text x="75" y="45" text-anchor="middle" font-size="18" font-weight="bold" fill="#1b120c">१०८</text>
+    <text x="75" y="70" text-anchor="middle" font-size="11" fill="#5d4037">हिस्सा: अ</text>
+    <text x="75" y="95" text-anchor="middle" font-size="11" fill="#2e7d32">भोगवटादार १</text>
+
+    <!-- Area -->
+    <text x="235" y="45" text-anchor="middle" font-size="16" font-weight="bold" fill="#b71c1c">२.१५ हे. आर</text>
+    <text x="235" y="70" text-anchor="middle" font-size="11" fill="#5d4037">आकार: ₹ ४.५०</text>
+    <text x="235" y="95" text-anchor="middle" font-size="11" fill="#1565c0">जिरायत/बागायत</text>
+
+    <!-- Owner -->
+    <g transform="translate(335, 30)">
+      <text y="15" font-size="14" font-weight="bold" fill="#1b120c">आनंद दत्तात्रय पाटील</text>
+      <text y="35" font-size="11" fill="#5d4037">खाते क्र. ४५ (एकुलता एक वारस)</text>
+      <text y="55" font-size="11" fill="#2e7d32">हक्क: पूर्ण मालकी (१००%)</text>
+      <line x1="0" y1="75" x2="170" y2="75" stroke="#d5c7a9" />
+      <text y="95" font-size="11" fill="#424242">पिक नोंद: ऊस (को. ८६०३२)</text>
+      <text y="115" font-size="11" fill="#424242">पाणी: निरा कालवा / विहीर</text>
+    </g>
+
+    <!-- Ferfar & Liens -->
+    <g transform="translate(535, 30)">
+      <text y="15" font-size="12" font-weight="bold" fill="#b71c1c">फेरफार क्र. ४४१२</text>
+      <text y="32" font-size="10" fill="#3e2723">दि. २२/११/२०२२ वारस नोंद</text>
+      <text y="48" font-size="10" fill="#3e2723">मंडळ अधिकारी बारामती</text>
+      
+      <line x1="0" y1="65" x2="150" y2="65" stroke="#d5c7a9" />
+      <text y="85" font-size="11" font-weight="bold" fill="#e65100">बोजा: बँक ऑफ महाराष्ट्र</text>
+      <text y="102" font-size="10" fill="#3e2723">बारामती मुख्य शाखा</text>
+      <text y="118" font-size="10" fill="#3e2723">कर्ज रक्कम: ₹ २,५०,०००/-</text>
+    </g>
+  </g>
+
+  <!-- Official Talathi Seal -->
+  <g transform="translate(500, 680)">
+    <circle cx="70" cy="50" r="45" fill="none" stroke="#283593" stroke-width="2" />
+    <text x="70" y="40" text-anchor="middle" font-size="10" font-weight="bold" fill="#283593">तलाठी कार्यालय बारामती</text>
+    <text x="70" y="55" text-anchor="middle" font-size="9" fill="#283593">सज्जा: बारामती</text>
+    <text x="70" y="68" text-anchor="middle" font-size="8" fill="#283593">जि. पुणे</text>
+  </g>
+</svg>
