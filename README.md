@@ -290,7 +290,7 @@ npm -v
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/aryanoff2112-art/BhuDrishti_SIH_Final_v3_fixed/>
 cd bhudrishtilast
 ```
 
